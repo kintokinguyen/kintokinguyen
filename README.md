@@ -1,16 +1,21 @@
-## Hi there 👋
+<div>
+  <img width="1000" height="300" alt="image" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" />
+</div>
 
-<!--
-**kintokinguyen/kintokinguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tool & Language
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,html,css,js,php" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dart,dotnet,flutter,mongodb,mysql,nodejs,react" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,postman,raspberrypi" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div>
+  <img width="1000" height="300" alt="image" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" />
+</div>
